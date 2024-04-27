@@ -119,8 +119,6 @@ namespace spindafysharp
 
                         if (B*1.5f > maxValue) { continue; }
 
-                        float v = 1- (B/maxValue);
-
                         X += i;
                         Y += j;
                         valueCount++;
